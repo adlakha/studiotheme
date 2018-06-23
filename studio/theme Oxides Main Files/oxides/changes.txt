@@ -1,0 +1,63 @@
+1.7
+- Added Woocommerce 3.1.2 compatibility
+- Updated Visual Composer to 5.2.1
+- Updated Revolution Slider to 5.4.5.2
+- Fixed potential security issue when saving theme options
+- Fixed single product shortcode rating
+
+1.6
+- Added WooCommerce 3.0.6 support
+- Updated Visual Composer to 5.1.1
+
+1.5.1
+- Updated Visual Composer to 5.1
+- Updated Revolution Slider to 5.4.1
+- Updated Edge Core to 1.3.1
+- Updated Font Awesome to 4.7.0
+- Updated TGM Plugin Activation to 2.6.1
+- Fixed portfolio pagination through the same category
+
+1.5
+- Added Woocommerce 2.6.8 compatibility
+- Updated Visual Composer to 5.0.1
+- Updated Revolution Slider to 5.3.0.2
+- Updated Edge CPT plugin to 1.3
+- Fixed the bug with shop archive sidebar
+- Fixed boxed layout issues
+
+1.4
+- Added Woocommerce 2.6.4 compatibility
+- Added option for Google Maps API key
+- Updated Visual Composer to 4.12.1
+- Updated Revolution Slider to 5.2.6
+- Updated Font Awesome to 4.6.3
+
+1.3
+- Added Woocommerce 2.6.1 compatibility
+- Updated Visual Composer to 4.12
+- Updated Revolution Slider to 5.2.5.4
+- Updated Edge CPT plugin to 1.2
+- Updated pot language file
+- Fixed Social Share functionality
+- Fixed bug with external link for portfolio items
+- Fixed bug with Single Upload Video type for portfolio single pages
+
+1.2.1
+- Updated Visual Composer to 4.11.2.1
+- Updated Revolution Slider to 5.2.5
+
+1.2
+- Added WordPress 4.5 compatibility
+- Updated Visual Composer to 4.11.1
+
+1.1
+- Added WooCommerce 2.5.5 compatibility
+- Added portrait small Image Proportion option for Scrolling Image shortcode
+- Updated Visual Composer to 4.11
+- Updated Revolution Slider to 5.2.2
+- Updated Edge CPT plugin to 1.1
+- Fixed spacing issue causing 404 error in WP admin
+- Fixed issue with Portfolio External Link meta box
+- Fixed issue with portfolio single video lightbox
+- Fixed bug with deleting custom sidebar
+- Fixed bug with portfolio single slug saving
